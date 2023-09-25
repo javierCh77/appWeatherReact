@@ -1,0 +1,20 @@
+
+body{
+    background-image: url("./assets/descarga1.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container-main{
+    color:white;
+    border-radius: 10px;
+    padding: 30px!important;
+    background-color: rgba(51, 50, 48, 0.651);
+}
+
+#city{
+    color:white;
+    background-color: rgba(149, 186, 192, 0.637);
+}
